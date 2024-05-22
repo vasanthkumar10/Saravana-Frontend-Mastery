@@ -1,0 +1,31 @@
+{
+  "name": "vasanth",
+  "age": 20,
+  "place": "chennai",
+  "experience": [
+    {
+      "company": "Zoho",
+      "location": "chennai",
+      "job": {
+        "pod": "analytics",
+        "role": "Member Technical Staff"
+      }
+    },
+    {
+      "company": "Zoho",
+      "location": "chennai",
+      "job": {
+        "pod": "analytics",
+        "role": "Member Technical Staff"
+      }
+    },
+    {
+      "company": "Zoho",
+      "location": "chennai",
+      "job": {
+        "pod": "analytics",
+        "role": "Member Technical Staff"
+      }
+    }
+  ]
+}
